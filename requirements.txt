@@ -1,4 +1,6 @@
 moviepy==1.0.3
-Pillow==9.5.0
-numpy<2.0.0
-streamlit
+decorator==4.4.2
+proglog==0.1.9
+imageio==2.25.1
+Pillow
+
