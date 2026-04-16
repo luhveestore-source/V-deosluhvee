@@ -1,6 +1,5 @@
 moviepy==1.0.3
-decorator==4.4.2
-proglog==0.1.9
-imageio==2.25.1
 Pillow
-
+numpy<2.0.0
+imageio==2.25.1
+imageio-ffmpeg
